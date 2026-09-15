@@ -67,3 +67,7 @@ The receiver receives the compressed binary data and uses the Shannon-Fano code 
 ## Project Type
 
 Simulation-based Digital Communication Project.
+
+<img width="672" height="719" alt="image" src="https://github.com/user-attachments/assets/1aa3acb1-3558-4088-8e94-73c64d33eb86" />
+<img width="689" height="717" alt="image" src="https://github.com/user-attachments/assets/30550d90-ea47-40a0-b52d-0836963c9bf1" />
+
